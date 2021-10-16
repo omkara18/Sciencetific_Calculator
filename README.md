@@ -13,7 +13,8 @@ import tkinter as tk
 from math import *
 
 ```
- -Programming languages : Python(Python 3.8.10)
+ 
+ - Programming languages : Python(Python 3.8.10)
  - Operating System:Linux
  - IDE :VS Code
 
