@@ -3,7 +3,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![Alt Text](https://github.com/omkara18/Sciencetific_Calculator/blob/master/Screenshot/scientfic_calculator.gif)
 
 # Software Requrirement 
 ## Prerequisites
@@ -19,3 +18,12 @@ from math import *
  - IDE :VS Code
 
 # Standard Calculator
+![Alt Text](https://github.com/omkara18/Sciencetific_Calculator/blob/master/Screenshot/1.Standard.png)
+
+# Scientific Calculator
+
+
+
+# Working 
+![Alt Text](https://github.com/omkara18/Sciencetific_Calculator/blob/master/Screenshot/scientfic_calculator.gif)
+
