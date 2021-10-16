@@ -1,4 +1,4 @@
-# Sciencetific_Calculator
+# Calculator
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -14,4 +14,8 @@ import tkinter as tk
 from math import *
 
 ```
--Python
+ -Programming languages : Python(Python 3.8.10)
+ - Operating System:Linux
+ - IDE :VS Code
+
+# Standard Calculator
