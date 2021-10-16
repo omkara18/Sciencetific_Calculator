@@ -22,7 +22,7 @@ from math import *
 ![Alt Text](https://github.com/omkara18/Sciencetific_Calculator/blob/master/Screenshot/1.Standard.png)
 
 # Scientific Calculator
-![Alt Text](https://github.com/omkara18/Sciencetific_Calculator)
+![Alt Text](https://github.com/omkara18/Sciencetific_Calculator/blob/master/Screenshot/2.Scientific.png)
 
 
 
